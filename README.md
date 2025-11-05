@@ -50,7 +50,7 @@ A structured repository of DSA problems and solutions written in C++.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranav603&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav603&theme=tokyonight" alt="GitHub Streak" width="49%">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav603&theme=tokyonight" alt="GitHub Streak" width="49%"> -->
 </p>
 
 ---
